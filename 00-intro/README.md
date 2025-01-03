@@ -34,11 +34,11 @@ CS50 is a course by Harvard University for everyone to learn foundations of comp
 
 - ASCII stands for `American Standard Code for Information Interchange`.
 
-- We can represent alphabetical letter or number using binary so that humans can read and understand it by assigning those alphabetical letters and numbers a binary value. e.g. We can assign uppercase letter `A` a binary value of `01000001` which is number `65` in decimal.
+- We can represent alphabetical letters or numbers using binary values. e.g. We can assign uppercase letter `A` a binary value of `01000001` which is number `65` in decimal.
 
-- In ASCII we can use `8 bits` to represent these data.
+- In ASCII we can use `8 bits` to represent these binary values.
 
-- It supports 2 raised to the power of 8 i.e. `256` different data values with binary.
+- It supports 2 raised to the power of 8 i.e. `256` different binary values.
 
 ### Unicode
 
@@ -46,6 +46,26 @@ CS50 is a course by Harvard University for everyone to learn foundations of comp
 
 - It is basically superset of ASCII.
 
-- It has backward compatibility with ASCII codes.
+- It is backward compatible with ASCII.
 
-- Unicode supports 2 raised to the power of 32 i.e. roughly 4 billions different data values with binary.
+- Unicode supports 2 raised to the power of 32 i.e. roughly 4 billions different binary values.
+
+---
+
+## Data Types
+
+- We can use the same combination of binary values to represent different kinds of data in different contexts.
+
+- Characters, numbers, colors, images, videos and sounds are some of the data types we see and use.
+
+---
+
+## Algorithm
+
+- Algorithm is a set of finite and precise step by step instructions.
+
+## Pseudocode
+
+- Pseudocode is a formal way of writing algorithms in a human readable form.
+
+- It does not need to be in some programming language it can be written in formal day to day human language.
