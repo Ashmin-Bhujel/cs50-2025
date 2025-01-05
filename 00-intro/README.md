@@ -1,4 +1,4 @@
-# 🚀 CS50
+# 🚀 CS50 2025
 
 CS50 is a course by Harvard University for everyone to learn foundations of computer science and art of programming.
 
