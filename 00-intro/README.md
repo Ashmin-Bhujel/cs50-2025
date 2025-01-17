@@ -33,3 +33,7 @@ We can use the same combination of binary values to represent different kinds of
 ## Algorithm & Pseudocode
 
 Algorithm is a set of finite and precise step by step instructions. Pseudocode is a formal way of writing algorithms in human readable form. It does not need to be in some programming language it can be written in formal day to day human language.
+
+## Scratch
+
+A graphical and interactive programming language made at MIT. It can be used for teaching kids and people with non-programming background about the foundations of programming and problem solving.
