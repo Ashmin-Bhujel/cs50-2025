@@ -5,7 +5,8 @@ int main(void)
   // Using char data type
   char is_agreed = ' ';
   printf("Do you agree? [y/n] ");
-  scanf("%c", &is_agreed);
+  // * NOTE: Should use space before %c in scanf to avoid reading whitespace character from buffer
+  scanf(" %c", &is_agreed);
 
   if (is_agreed == 'y' || is_agreed == 'Y')
   {
